@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webapi-role-based-authentication", "webapi-role-based-authentication\webapi-role-based-authentication.csproj", "{4A67EDB2-BD36-4AD5-BA77-F385BEE9BEBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A67EDB2-BD36-4AD5-BA77-F385BEE9BEBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A67EDB2-BD36-4AD5-BA77-F385BEE9BEBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A67EDB2-BD36-4AD5-BA77-F385BEE9BEBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A67EDB2-BD36-4AD5-BA77-F385BEE9BEBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA8EFA18-4F8C-4F76-BE4A-0C11C9F9D890}
+	EndGlobalSection
+EndGlobal
